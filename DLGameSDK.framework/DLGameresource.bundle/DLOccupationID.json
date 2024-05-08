@@ -1,0 +1,262 @@
+{
+    "dataList" : [
+        {
+            "occupationId" : 1,
+            "occupationName" : "信息技術",
+            "occupationItem" : [
+                {
+                   "occupationId" : 11,
+                   "occupationName" : "互聯網"
+                },
+                {
+                   "occupationId" : 12,
+                   "occupationName" : "IT"
+                },
+                {
+                   "occupationId" : 13,
+                   "occupationName" : "通訊"
+                },
+                {
+                   "occupationId" : 14,
+                   "occupationName" : "電信運營"
+                },
+                {
+                   "occupationId" : 15,
+                   "occupationName" : "網絡遊戲"
+                },
+            ]
+        },
+        {
+            "occupationId" : 2,
+            "occupationName" : "金融保險",
+            "occupationItem" : [
+                {
+                   "occupationId" : 16,
+                   "occupationName" : "投資"
+                },
+                {
+                   "occupationId" : 17,
+                   "occupationName" : "股票/基金"
+                },
+                {
+                   "occupationId" : 18,
+                   "occupationName" : "保險"
+                },
+                {
+                   "occupationId" : 19,
+                   "occupationName" : "銀行"
+                },
+                {
+                   "occupationId" : 20,
+                   "occupationName" : "信托/擔保"
+                },
+            ]
+        },
+        {
+            "occupationId" : 3,
+            "occupationName" : "商業服務",
+            "occupationItem" : [
+                {
+                   "occupationId" : 21,
+                   "occupationName" : "咨詢"
+                },
+                {
+                   "occupationId" : 22,
+                   "occupationName" : "個體經營"
+                },
+                {
+                   "occupationId" : 23,
+                   "occupationName" : "美容美發"
+                },
+                {
+                   "occupationId" : 24,
+                   "occupationName" : "旅遊"
+                },
+                {
+                   "occupationId" : 25,
+                   "occupationName" : "酒店餐飲"
+                },
+                {
+                   "occupationId" : 26,
+                   "occupationName" : "休閑娛樂"
+                },
+                {
+                   "occupationId" : 27,
+                   "occupationName" : "貿易"
+                },
+                {
+                   "occupationId" : 28,
+                   "occupationName" : "汽車"
+                },
+                {
+                   "occupationId" : 29,
+                   "occupationName" : "房地產"
+                },
+                {
+                   "occupationId" : 30,
+                   "occupationName" : "物業管理"
+                },
+                {
+                   "occupationId" : 31,
+                   "occupationName" : "裝修/裝潢"
+                },
+                {
+                   "occupationId" : 32,
+                   "occupationName" : "偵探"
+                },
+            ]
+        },
+        {
+            "occupationId" : 4,
+            "occupationName" : "工程制造",
+            "occupationItem" : [
+                {
+                   "occupationId" : 33,
+                   "occupationName" : "建築"
+                },
+                {
+                   "occupationId" : 34,
+                   "occupationName" : "土木工程"
+                },
+                {
+                   "occupationId" : 35,
+                   "occupationName" : "機械制造"
+                },
+                {
+                   "occupationId" : 36,
+                   "occupationName" : "電子"
+                },
+                {
+                   "occupationId" : 37,
+                   "occupationName" : "生物醫藥"
+                },
+                {
+                   "occupationId" : 38,
+                   "occupationName" : "食品"
+                },
+                {
+                   "occupationId" : 39,
+                   "occupationName" : "服裝"
+                },
+                {
+                   "occupationId" : 40,
+                   "occupationName" : "能源"
+                }
+            ]
+        },
+        {
+            "occupationId" : 5,
+            "occupationName" : "交通運輸",
+            "occupationItem" : [
+                {
+                   "occupationId" : 41,
+                   "occupationName" : "航空"
+                },
+                {
+                   "occupationId" : 42,
+                   "occupationName" : "鐵路"
+                },
+                {
+                   "occupationId" : 43,
+                   "occupationName" : "航運/船舶"
+                },
+                {
+                   "occupationId" : 44,
+                   "occupationName" : "公共交通"
+                },
+                {
+                   "occupationId" : 45,
+                   "occupationName" : "物流運輸"
+                }
+            ]
+        },
+        {
+            "occupationId" : 6,
+            "occupationName" : "文化傳媒",
+            "occupationItem" : [
+                {
+                   "occupationId" : 46,
+                   "occupationName" : "媒體出版"
+                },
+                {
+                   "occupationId" : 47,
+                   "occupationName" : "設計"
+                },
+                {
+                   "occupationId" : 48,
+                   "occupationName" : "文化傳播"
+                },
+                {
+                   "occupationId" : 49,
+                   "occupationName" : "廣告創意"
+                },
+                {
+                   "occupationId" : 50,
+                   "occupationName" : "動漫"
+                },
+                {
+                   "occupationId" : 51,
+                   "occupationName" : "公關/會展"
+                },
+                {
+                   "occupationId" : 52,
+                   "occupationName" : "攝影"
+                }
+            ]
+        },
+        {
+            "occupationId" : 8,
+            "occupationName" : "公共事業",
+            "occupationItem" : [
+                {
+                   "occupationId" : 57,
+                   "occupationName" : "醫療"
+                },
+                {
+                   "occupationId" : 58,
+                   "occupationName" : "法律"
+                },
+                {
+                   "occupationId" : 59,
+                   "occupationName" : "教育"
+                },
+                {
+                   "occupationId" : 60,
+                   "occupationName" : "政府機關"
+                },
+                {
+                   "occupationId" : 61,
+                   "occupationName" : "科研"
+                },
+                {
+                   "occupationId" : 62,
+                   "occupationName" : "公益"
+                }
+            ]
+        },
+        {
+            "occupationId" : 9,
+            "occupationName" : "學校",
+            "occupationItem" : [
+                {
+                   "occupationId" : 63,
+                   "occupationName" : "學生"
+                },
+                {
+                   "occupationId" : 64,
+                   "occupationName" : "學生"
+                }
+            ]
+        },
+        {
+            "occupationId" : 10,
+            "occupationName" : "無",
+            "occupationItem" : [
+                {
+                   "occupationId" : 65,
+                   "occupationName" : "無"
+                }
+            ]
+        }
+    ]
+}

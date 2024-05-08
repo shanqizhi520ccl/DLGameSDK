@@ -1,0 +1,11 @@
+framework module DLGameSDK {
+  umbrella header "DLGameSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module DLGameSDK.Swift {
+  header "DLGameSDK-Swift.h"
+  requires objc
+}
