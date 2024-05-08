@@ -1,5 +1,5 @@
 Pod::Spec.new do |s| 
-  s.name         = "TYNetworkTool"      #SDK名称
+  s.name         = "DLGameSDK"      #SDK名称
   s.version      = "0.0.2"                        #版本号
   s.homepage     = "https://github.com/shanqizhi520ccl/DLGameSDK"  #工程主页地址
   s.summary      = "A short description of DLGameSDK."  #项目的简单描述
