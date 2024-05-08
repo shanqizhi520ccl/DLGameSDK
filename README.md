@@ -23,12 +23,14 @@ pod install
 ```bash
 import DLGameSDK
 ```
-
+## Installation
 Requirements
 iOS 12.0+
 Xcode 10.0+
+
+## Installation
 License
 DLGameSDK is available under the MIT license. See the LICENSE file for more info.
 
-Contact
+## Installation
 有问题或需要帮助？请联系 shanqizhi_seven@163.com 或者提交 Issue 到 GitHub 仓库。
