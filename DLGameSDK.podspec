@@ -1,6 +1,6 @@
 Pod::Spec.new do |s| 
   s.name         = "DLGameSDK"      #SDK名称
-  s.version      = "0.0.2"                        #版本号
+  s.version      = "1.0.0"                        #版本号
   s.homepage     = "https://github.com/shanqizhi520ccl/DLGameSDK"  #工程主页地址
   s.summary      = "DLGameSDK是用来自身项目使用的"  #项目的简单描述
   s.license  = "MIT"  #协议类型
