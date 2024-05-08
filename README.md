@@ -9,8 +9,12 @@ DLGameSDK 是一个为 iOS 设计的游戏开发工具包，提供多种游戏�
 ```bash
 gem install cocoapods
 
-```bash
 pod 'DLGameSDK', '~> 1.0.0'
 
-```bash
 pod install
+
+import DLGameSDK
+
+Requirements
+iOS 12.0+
+Xcode 10.0+
