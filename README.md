@@ -12,11 +12,11 @@ gem install cocoapods
 参考：https://juejin.cn/post/7199540426242605112
 
 ## Installation
-CocoaPods方式
+CocoaPods方式：在Podfile中添加
 ```bash
 pod 'DLGameSDK'
 ```
-终端命令
+终端命令：cd到项目Podfile目录下，执行
 ```bash
 pod install
 ```
