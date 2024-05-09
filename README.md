@@ -26,7 +26,7 @@ import DLGameSDK
 ```
 ## Installation
 iOS 12.0+
-Xcode 10.0+
+Xcode 12.0+
 
 ## Installation
 DLGameSDK is available under the MIT license. See the LICENSE file for more info.
