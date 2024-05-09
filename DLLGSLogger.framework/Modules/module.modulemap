@@ -1,0 +1,13 @@
+//
+//  SwiftModule.swift
+//  DLLGSLogger
+//
+//  Created by 吴涛 on 2023/2/20.
+//
+
+framework module DLLGSLogger {
+    umbrella header "DLLGSLogger.h"
+
+    export *
+    module * { export * }
+}

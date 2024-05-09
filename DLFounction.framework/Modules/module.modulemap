@@ -1,0 +1,13 @@
+//
+//  SwiftModule.swift
+//  DLFounction
+//
+//  Created by 吴涛 on 2023/2/20.
+//
+
+framework module DLFounction {
+    umbrella header "DLFounction.h"
+
+    export *
+    module * { export * }
+}
