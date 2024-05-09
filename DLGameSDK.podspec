@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.platform     	  = :ios, '12.0'
   s.ios.deployment_target = '12.0'
   s.frameworks   	  = ['UIKit', 'Foundation']
-  s.vendored_frameworks   = ['DLGameSDK.framework', 'DLFounction.framework', 'DLLGSLogger.framework', 'DLUIKit.framework', 'ImSDK_Plus.framework']
+  s.vendored_frameworks   = ['DLFounction.framework', 'DLLGSLogger.framework', 'DLUIKit.framework', 'ImSDK_Plus.framework']
   s.vendored_xcframeworks = ['TXFFmpeg.xcframework', 'TXSoundTouch.xcframework']
 end
