@@ -16,7 +16,7 @@ CocoaPods方式：在Podfile中添加
 ```bash
 pod 'DLGameSDK'
 ```
-终端命令：cd到项目Podfile目录下，执行
+终端命令：cd到Podfile目录下，执行
 ```bash
 pod install
 ```
