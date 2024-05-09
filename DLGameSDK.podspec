@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DLGameSDK'
-  s.version          = '3.0.0'
-  s.summary          = '更新DLGameSDK v3.0.0版本'
+  s.version          = '4.0.0'
+  s.summary          = '更新DLGameSDK v4.0.0版本'
   s.description      = 'An optional longer description of DLGameSDK.'
   s.homepage         = 'https://github.com/shanqizhi520ccl/DLGameSDK'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -12,4 +12,6 @@ Pod::Spec.new do |s|
   s.frameworks       = 'UIKit', 'Foundation'
   s.requires_arc     = true
   s.source_files     = 'DLGameSDK.framework/Headers/*.{h}'
+  s.vendored_frameworks = 'DLGameSDK.framework', 'DLFounction.framework', 'DLLGSLogger.framework', 'DLUIKit.framework', 'ImSDK_Plus.framework', 'TXLiteAVSDK_TRTC.framework'
+  s.vendored_xcframeworks = 'TXFFmpeg.xcframework', 'TXSoundTouch.xcframework'
 end

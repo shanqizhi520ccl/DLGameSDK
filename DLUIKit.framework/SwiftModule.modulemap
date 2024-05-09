@@ -1,0 +1,7 @@
+
+framework module DLUIKit {
+    umbrella header "DLUIKit.h"
+
+    export *
+    module * { export * }
+}
