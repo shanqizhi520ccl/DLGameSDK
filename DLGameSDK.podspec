@@ -12,6 +12,5 @@ Pod::Spec.new do |s|
   s.frameworks       = 'UIKit', 'Foundation'
   s.requires_arc     = true
   s.source_files     = 'DLGameSDK.framework/Headers/*.{h}'
-  s.vendored_frameworks = 'DLGameSDK.framework', 'DLFounction.framework', 'DLLGSLogger.framework', 'DLUIKit.framework', 'ImSDK_Plus.framework'
-  s.vendored_xcframeworks = 'TXFFmpeg.xcframework', 'TXSoundTouch.xcframework'
+  s.vendored_frameworks = 'DLFounction.framework', 'DLLGSLogger.framework', 'DLUIKit.framework', 'ImSDK_Plus.framework'
 end
