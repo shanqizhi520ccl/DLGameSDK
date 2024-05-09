@@ -14,7 +14,7 @@ gem install cocoapods
 ## Installation
 CocoaPods方式
 ```bash
-pod 'DLGameSDK', '~> 1.0.0'
+pod 'DLGameSDK'
 ```
 终端命令
 ```bash
